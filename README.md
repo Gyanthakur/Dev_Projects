@@ -1,4 +1,4 @@
-# Project Showcase 🚀
+# Dev_Projects 🚀
 
 
 Welcome to the Hacktoberfest Project Showcase! This repository is a platform for developers from around the world to show your project and share their amazing projects. Whether you've built a web app, a mobile app, a cool machine learning model, or any other tech project, we'd love to see it!
@@ -58,7 +58,7 @@ We welcome contributions from everyone! Whether you're a seasoned developer or a
 2. **Clone** your forked repository to your local machine.
 ```bash
 git clone https://github.com/Gyanthakur/Dev_Projects.git
-cd Projects-showcase
+cd Dev-projects
 ```
 3. create a .md file with naming conventions prescribed and Put content in it
 4. **Commit** your changes with a meaningful commit message.
