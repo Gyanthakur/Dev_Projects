@@ -34,17 +34,19 @@ We welcome contributions from everyone! Whether you're a seasoned developer or a
      2. Link to their projects source code and deployment(if available)
      3. Tech stack
      4. Your github profile
+     5. Your linkedin profile
   - Template for the file,
     ```yaml
     ---
     title: Name of the project
     description: description about your project
-    link: to the projects source code and deployment(if available)
+    link: to the projects source code(Repository URL) and deployment(if available)
     tech stack:
       - technologies
       - used
       - in the project
     github profile link: url to your github profile
+    Linkedin profile link: url to your linkedin profile
     ---
     ```
 - **File naming conventions -** File should be name with the title of their project or a should describe what project do.
